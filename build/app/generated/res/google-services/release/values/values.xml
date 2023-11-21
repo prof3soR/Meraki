@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">380475810278-nbnnasnd0rs01025hk8jshrhl1tv9477.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">380475810278</string>
+    <string name="google_api_key" translatable="false">AIzaSyD72aXu94pnLi4Tkv4WnAUxtlxi0fSfKU8</string>
+    <string name="google_app_id" translatable="false">1:380475810278:android:582fcdd2175d77f7cbf627</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD72aXu94pnLi4Tkv4WnAUxtlxi0fSfKU8</string>
+    <string name="google_storage_bucket" translatable="false">meraki-a6d7e.appspot.com</string>
+    <string name="project_id" translatable="false">meraki-a6d7e</string>
+</resources>

@@ -1,0 +1,42 @@
+name: meraki
+description: A new Flutter project.
+
+# Prevent accidental publication to pub.dev
+publish_to: none
+
+# Application version and build number
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Cupertino Icons font for iOS-style icons
+  cupertino_icons: ^1.0.2
+
+  # Firebase dependencies
+  firebase_core: ^2.22.0
+  google_sign_in: ^6.1.6
+  firebase_auth: ^4.13.0
+  cloud_firestore: ^4.13.1
+  provider: ^6.1.1
+  flutter_signin_button: ^2.0.0
+  shared_preferences: ^2.0.7
+  carousel_slider: ^4.2.1
+  url_launcher: ^6.0.20
+  whatsapp_unilink: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # Flutter linter for good coding practices
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
